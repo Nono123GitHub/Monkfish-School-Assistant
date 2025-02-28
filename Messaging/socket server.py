@@ -87,7 +87,6 @@ def handle_client(conn, addr):
                         notext = "SERVER: Lesson time! All chats are now off until lessons end."
                         try:
                             now = datetime.now().time()
-                            now = time(6,45)
                             if is_lesson_time(now):
                                 target_conn.sendall(notext.encode())
                             else:
