@@ -1,0 +1,25 @@
+# Core dependencies
+flask==2.0.1
+flask-socketio==5.1.1
+
+# AI & Computer Vision
+opencv-python==4.5.3.56
+face-recognition==1.3.0
+
+# Pathfinding & Navigation
+networkx==2.5.1
+
+# QR Code Scanning
+pyzbar==0.1.8
+Pillow==8.2.0
+
+# Encryption & Security
+cryptography==3.4.7
+
+# Hardware & Raspberry Pi support
+RPi.GPIO==0.7.0
+picamera==1.13
+
+# Miscellaneous
+numpy==1.21.0
+requests==2.25.1
