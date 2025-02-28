@@ -25,12 +25,22 @@
 ## 🖥️ **Technologies & Hardware**
 
 ### **Software**
-- **Language & Libraries**: 💻 **Developed in Python using libraries for AI, computer vision, and algorithmic path-finding.**
+- **Languages & Libraries**: 💻 **Developed in Python using AI, computer vision, and algorithmic path-finding.**
 - **Server Architecture**: 🌐 **Runs on a local Raspberry Pi server, ensuring secure, offline operations within the school network.**
 
 ### **Hardware**
-- **Design**: 🖥️ **A compact device featuring a touchscreen and physical keyboard designed for ease-of-use.**
-- **3D-Printed Case**: 🏗️ **Custom-designed case that is both durable and ergonomically friendly, combining a retro aesthetic with modern functionality.**
+- **Design**: 🖥️ **A compact, durable device featuring a touchscreen and physical keyboard designed for ease-of-use.**
+- **3D-Printed Case**: 🏗️ **Custom case for durability and ergonomics, combining a retro aesthetic with modern functionality.**
+- **Battery Efficient**: 🔋 **Designed to last an entire school day, ensuring reliability.**
+
+### **Required Hardware**
+- 🖥️ **Raspberry Pi 4 or 5** (for running the application)
+- 📟 **Touchscreen display** (for user interaction)
+- ⌨️ **Mini physical keyboard** (for input convenience)
+- 🔋 **Portable power supply** (for extended usability)
+- 📸 **Oak D Lite** (for facial recognition and QR scanning)
+- 📶 **WiFi or local network connectivity** (for secure communications)
+- 🖨️ **3D-printed case** (for hardware protection and ease of handling)
 
 ---
 
