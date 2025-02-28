@@ -82,6 +82,7 @@ Before running the application, ensure you have:
 
 To start the application, run:
 ```bash
+ cd Main Interface
  python main.py
 ```
 
